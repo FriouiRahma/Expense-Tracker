@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+![Capture d’écran du 2025-03-06 14-01-32](https://github.com/user-attachments/assets/94cadc34-eebd-459d-a85f-be7e1038a391)
